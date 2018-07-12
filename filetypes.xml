@@ -11,6 +11,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="opstack-kcare" type="Python" />
     </extensionMap>
   </component>
